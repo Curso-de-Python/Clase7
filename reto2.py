@@ -15,6 +15,6 @@ def esPrimo(num):
   # coloca tu código aquí
 
 for i in range(1, 20):
-    if esPrimo(i + 1):
-        print(i + 1, end=" ")
+  if esPrimo(i + 1):
+    print(i + 1, end=" ")
 print()
