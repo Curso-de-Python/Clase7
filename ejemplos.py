@@ -1,9 +1,18 @@
+# FUNCIONES
+
+def mensaje():
+  print("Ingresa un valor: ")
+
+print("Se comienza aquí.")
+mensaje()
+print("Se termina aquí.")
+
 # FUNCIONES CON PARÁMETROS
 
-def mensaje(numero):
-  print("Ingresa un número:", numero)
+#def mensaje(numero):
+#  print("Ingresa un número:", numero)
 
-mensaje() # ¿Qué ocurre aquí?
+#mensaje(1) # ¿Qué ocurre aquí?
 
 # ---------------------------
 #def mensaje(numero):
